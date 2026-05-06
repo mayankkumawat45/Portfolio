@@ -52,9 +52,9 @@
     <h2>My Artwork</h2>
 
     <div class="row-posters">
-      <img src="art1.jpg">
-      <img src="art2.jpg">
-      <img src="art3.jpg">
+      <img src="1.png">
+      <img src="2.png">
+      <img src="3.png">
     </div>
   </div>
 
